@@ -61,6 +61,7 @@
             <p class="container__h5">tu suledo es de: <?php echo $sueldo*$horas;?></p>
             <?php endif?>
         </div>
+        <!-- probando cosas -->
     </div>
 </body>
 </html>
